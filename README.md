@@ -6,9 +6,9 @@ This project is a Django application designed for multi-level authentication sec
 ## Technology Stack
 - Python
 - Django
-- React
-- MySQL
-- JavaScript
+- Rest Framework
+- jwt-web-authentication
+- SQLlite3
 
 ## Installation
 Clone the repository:
