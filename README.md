@@ -24,15 +24,24 @@ pip install -r requirements.txt
 Install Docker Desktop from Docker's official website.
 Build the Docker image:
 
-``` docker build -t quiz-app . ```
+```
+docker build -t quiz-app .
+```
 Run the Docker container:
-``` docker run -p 8000:8000 quiz-app ```
+```
+ docker run -p 8000:8000 quiz-app
+
+```
 Access the application in your web browser at the specified address.
 
 ## Start the Development Server
 ```
 python manage.py makemigrations
+```
+```
 python manage.py migrate
+```
+```
 python manage.py runserver
 ```
 Access the application in your web browser at the specified address.
