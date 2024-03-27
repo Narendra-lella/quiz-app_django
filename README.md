@@ -64,4 +64,4 @@ Access the application in your web browser at the specified address.
 - ../api/auth/delete/question -- DELETE
 
 
-Note :- It is stil in developing stage Frontebd will be out in next release. 
+Note :- It is stil in developing stage Frontend will be out in next release. Frontend will be Reat.js
