@@ -62,3 +62,6 @@ Access the application in your web browser at the specified address.
 - ../api/auth/question/{question_id} -- PUT
   Update the questions.
 - ../api/auth/delete/question -- DELETE
+
+
+Note :- It is stil in developing stage Frontebd will be out in next release. 
